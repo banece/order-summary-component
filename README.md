@@ -17,7 +17,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [github.com/banece/four-card-feature-section](https://github.com/banece/four-card-feature-section)
+- Solution URL: [github.com/banece/order-summary-component](https://github.com/banece/order-summary-component)
 - Live Site URL: []()
 
 ## My process
@@ -32,11 +32,11 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### What I learned
 
-Some more of grid and flex. How to make a "fake" border to span the whole element.
+
 
 ### Continued development
 
-Continue on improving my grid and flex layouts.
+
 
 ### Useful resources
 
