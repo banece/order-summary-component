@@ -18,7 +18,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: [github.com/banece/order-summary-component](https://github.com/banece/order-summary-component)
-- Live Site URL: []()
+- Live Site URL: [banece.github.io/order-summary-component](https://banece.github.io/order-summary-component/)
 
 ## My process
 
@@ -32,11 +32,11 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### What I learned
 
-
+Using different backgrounds for different devices. 
 
 ### Continued development
 
-
+Doing the next Frontend challenge and then moving on to next level. Reading about Javascript and then using it in my projects.
 
 ### Useful resources
 
