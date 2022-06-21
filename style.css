@@ -23,6 +23,11 @@ body {
     font-size: 16px;
     font-family: 'Red Hat Display', sans-serif;
     background-color: var(--verypaleblue);
+    background-image: url(./images/pattern-background-mobile.svg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+    
 }
 
 section {
@@ -141,4 +146,3 @@ footer > button:nth-of-type(2) {
     color: var(--darkblue);
     margin-top: 1em;
 }
-
